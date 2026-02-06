@@ -241,3 +241,4 @@ C:\Users\Juan Esteban Osorio\OneDrive\Escritorio\To-Do List\backend\TodoApi\obj\
 C:\Users\Juan Esteban Osorio\OneDrive\Escritorio\To-Do List\backend\TodoApi\obj\Debug\net9.0\TodoApi.pdb
 C:\Users\Juan Esteban Osorio\OneDrive\Escritorio\To-Do List\backend\TodoApi\obj\Debug\net9.0\TodoApi.genruntimeconfig.cache
 C:\Users\Juan Esteban Osorio\OneDrive\Escritorio\To-Do List\backend\TodoApi\obj\Debug\net9.0\ref\TodoApi.dll
+C:\Users\Juan Esteban Osorio\OneDrive\Escritorio\To-Do List\backend\TodoApi\obj\Debug\net9.0\TodoApi.sourcelink.json
